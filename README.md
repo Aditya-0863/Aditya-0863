@@ -22,5 +22,5 @@ PCB design, and eventually VLSI physical design.
 - Bridge the gap between "code that runs on hardware" and "the hardware itself"
 
 ### Reach Me
-- LinkedIn: (https://www.linkedin.com/in/aditya-anil-a48ba7359/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOVLANThARZC4f7OnhD3S7A%3D%3D)
+- LinkedIn: [Aditya Anil](https://www.linkedin.com/in/aditya-anil-a48ba7359/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOVLANThARZC4f7OnhD3S7A%3D%3D)
 - Email: [adityaanil7812@gmail.com]
