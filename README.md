@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm [Aditya Anil]
 
-<!--
-**Aditya-0863/Aditya-0863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[3rd] year Electronics and Communication Engineering student.  
+Started with Arduino and robotics, now going deeper — bare metal embedded, 
+PCB design, and eventually VLSI physical design.
 
-Here are some ideas to get you started:
+### My Project Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What It Is | Stack |
+|---------|-----------|-------|
+| [Pick-and-Place Robot](https://github.com/Aditya-0863/pick-place-robot) | Vision-guided autonomous 2WD robot with 2-DOF arm | Python, OpenCV, ESP32, UDP |
+| [Line Follower](https://github.com/Aditya-0863/line_following_robot/tree/main) | IR-based autonomous line tracking | Arduino, sensors, motor control |
+| [Quadcopter](https://github.com/Aditya-0863/quadcopter-apm2.8) | APM2.8 drone build — assembly & calibration | Hardware, soldering, flight tuning |
+
+### Currently Working On
+- **Helmet project** — Bare metal embedded C (no Arduino framework), custom PCB in KiCad
+- Learning: register-level programming, interrupt-driven architectures
+
+### Future Goals
+- **VLSI Physical Design** — floorplanning, placement, routing, STA
+- **FPGA** — RISC-V core implementation, digital design verification
+- Bridge the gap between "code that runs on hardware" and "the hardware itself"
+
+### Reach Me
+- LinkedIn: (https://www.linkedin.com/in/aditya-anil-a48ba7359/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOVLANThARZC4f7OnhD3S7A%3D%3D)
+- Email: [adityaanil7812@gmail.com]
