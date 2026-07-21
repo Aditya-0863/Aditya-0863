@@ -8,6 +8,7 @@ PCB design, and eventually VLSI physical design.
 
 | Project | What It Is | Stack |
 |---------|-----------|-------|
+| [HelmetLink-STM32](https://github.com/Aditya-0863/HelmetLink-STM32) | Smart motorcycle helmet with Bluetooth 5.1 audio, crash detection, and automatic emergency calling | PCB design, Bare Metal Coding, STM32, KiCAD |
 | [Pick-and-Place Robot](https://github.com/Aditya-0863/pick-place-robot) | Vision-guided autonomous 2WD robot with 2-DOF arm | Python, OpenCV, ESP32, UDP |
 | [Line Follower](https://github.com/Aditya-0863/line_following_robot/tree/main) | IR-based autonomous line tracking | Arduino, sensors, motor control |
 | [Quadcopter](https://github.com/Aditya-0863/quadcopter-apm2.8) | APM2.8 drone build — assembly & calibration | Hardware, soldering, flight tuning |
