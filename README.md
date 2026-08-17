@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aditya Anil 👋
+# Hi, I'm Aditya Anil 
 
 ### Electronics & Communication Engineering | Embedded Systems • PCB Design • Aspiring VLSI Engineer
 
@@ -23,16 +23,14 @@ What drives me is the gap between *"code that runs on hardware"* and *"the hardw
 
 ## Tech Stack
 
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -63,7 +61,7 @@ Full hardware build of a quadcopter on the APM 2.8 flight controller.
 
 ---
 
-## 🔨 Currently Working On
+##  Currently Working On
 
 - **HelmetLink** — deepening bare-metal embedded C skills: register-level programming and interrupt-driven architectures, alongside custom PCB design in KiCad
 
@@ -88,7 +86,7 @@ Full hardware build of a quadcopter on the APM 2.8 flight controller.
 
 <div align="center">
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-anil-a48ba7359/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaanil7812@gmail.com)
