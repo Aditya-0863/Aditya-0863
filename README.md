@@ -1,27 +1,98 @@
-## Hi, I'm [Aditya Anil]
+<div align="center">
 
-[3rd] year Electronics and Communication Engineering student.  
-Started with Arduino and robotics, now going deeper — bare metal embedded, 
-PCB design, and eventually VLSI physical design.
+# Hi, I'm Aditya Anil 👋
 
-### My Project Journey
+### Electronics & Communication Engineering | Embedded Systems • PCB Design • Aspiring VLSI Engineer
 
-| Project | What It Is | Stack |
-|---------|-----------|-------|
-| [HelmetLink-STM32](https://github.com/Aditya-0863/HelmetLink-STM32) | Smart motorcycle helmet with Bluetooth 5.1 audio, crash detection, and automatic emergency calling | PCB design, Bare Metal Coding, STM32, KiCAD |
-| [Pick-and-Place Robot](https://github.com/Aditya-0863/pick-place-robot) | Vision-guided autonomous 2WD robot with 2-DOF arm | Python, OpenCV, ESP32, UDP |
-| [Line Follower](https://github.com/Aditya-0863/line_following_robot/tree/main) | IR-based autonomous line tracking | Arduino, sensors, motor control |
-| [Quadcopter](https://github.com/Aditya-0863/quadcopter-apm2.8) | APM2.8 drone build — assembly & calibration | Hardware, soldering, flight tuning |
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bare-Metal+Embedded+C+on+STM32;Custom+PCB+Design+in+KiCad;Bridging+Code+and+Silicon)
 
-### Currently Working On
-- **Helmet project** — Bare metal embedded C (no Arduino framework), custom PCB in KiCad
-- Learning: register-level programming, interrupt-driven architectures
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-anil-a48ba7359/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaanil7812@gmail.com)
 
-### Future Goals
-- **VLSI Physical Design** — floorplanning, placement, routing, STA
-- **FPGA** — RISC-V core implementation, digital design verification
-- Bridge the gap between "code that runs on hardware" and "the hardware itself"
+</div>
 
-### Reach Me
-- LinkedIn: [Aditya Anil](https://www.linkedin.com/in/aditya-anil-a48ba7359/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOVLANThARZC4f7OnhD3S7A%3D%3D)
-- Email: [adityaanil7812@gmail.com]
+---
+
+## About Me
+
+I'm a 3rd-year ECE student who started out flashing Arduinos and building robots, and has been steadily moving down the stack ever since — from framework-based coding to **bare-metal embedded C**, from breadboards to **custom PCBs in KiCad**, and now working toward **VLSI physical design**.
+
+What drives me is the gap between *"code that runs on hardware"* and *"the hardware itself"* — I want to understand and build both sides of that line.
+
+---
+
+## Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+### [HelmetLink-STM32](https://github.com/Aditya-0863/HelmetLink-STM32)
+Smart motorcycle helmet built around a custom STM32 PCB, running on bare-metal embedded C (no Arduino framework).
+- Bluetooth 5.1 audio, crash detection, and automatic emergency calling
+- Custom PCB designed end-to-end in KiCad
+- Register-level, interrupt-driven firmware — currently in active development
+- **Stack:** STM32 · Bare-Metal C · KiCad · PCB Design
+
+### [Pick-and-Place Robot](https://github.com/Aditya-0863/pick-place-robot)
+Vision-guided autonomous 2WD robot with a 2-DOF arm for object detection and manipulation.
+- Computer vision pipeline with OpenCV for object detection and guidance
+- ESP32 firmware communicating with a Python vision stack over UDP
+- **Stack:** Python · OpenCV · ESP32 · UDP
+
+### [Line Follower](https://github.com/Aditya-0863/line_following_robot/tree/main)
+IR-based autonomous line-tracking robot.
+- Closed-loop motor control driven by IR sensor feedback
+- **Stack:** Arduino · Sensors · Motor Control
+
+### [Quadcopter (APM 2.8)](https://github.com/Aditya-0863/quadcopter-apm2.8)
+Full hardware build of a quadcopter on the APM 2.8 flight controller.
+- Assembly, soldering, and flight-tuning/calibration from scratch
+- **Stack:** Hardware · Soldering · Flight Tuning
+
+---
+
+## 🔨 Currently Working On
+
+- **HelmetLink** — deepening bare-metal embedded C skills: register-level programming and interrupt-driven architectures, alongside custom PCB design in KiCad
+
+## Where I'm Headed
+
+- **VLSI Physical Design** — floorplanning, placement, routing, static timing analysis (STA)
+- **FPGA / Digital Design** — RISC-V core implementation and verification
+- Long-term: bridging embedded software and the silicon it runs on
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-0863&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0863&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-anil-a48ba7359/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaanil7812@gmail.com)
+
+*Open to internships and opportunities in embedded systems, hardware design, and VLSI.*
+
+</div>
