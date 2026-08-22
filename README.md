@@ -73,10 +73,6 @@ Full hardware build of a quadcopter on the APM 2.8 flight controller.
 
 ---
 
-</div>
-
----
-
 <div align="center">
 
 ###  Let's Connect
