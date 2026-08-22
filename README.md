@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bare-Metal+Embedded+C+on+STM32;Custom+PCB+Design+in+KiCad;Bridging+Code+and+Silicon)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-anil-a48ba7359/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adityaanil7812@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaanil7812@gmail.com)
 
 </div>
 
@@ -72,13 +72,6 @@ Full hardware build of a quadcopter on the APM 2.8 flight controller.
 - Long-term: bridging embedded software and the silicon it runs on
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-0863&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0863&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
